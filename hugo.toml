@@ -1,5 +1,0 @@
-baseURL = 'https://philippe.plantier.tech'
-languageCode = 'fr-fr'
-title = 'Philippe Plantier'
-theme = "hello-friend-ng"
-publishDir = "docs/"
